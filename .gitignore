@@ -1,0 +1,4 @@
+# Temporary files
+/tmp/
+*.tmp
+.DS_Store
